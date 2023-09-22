@@ -27,7 +27,7 @@
 ### Tools
 
 * KiBuzzard (internal): Create Labels
-* [pcb-action-tools (modified)](./3rdparty/custom/plugins/pcb-action-tools_v1.0.6~_pcm.zip):
+* [pcb-action-tools (modified)](./custom/plugins/pcb-action-tools_v1.0.6~_pcm.zip):
     * Annular checker
     * Snap Selected Footprint(s) to Grid
     * Move Selected Drawings to chosen Layer
