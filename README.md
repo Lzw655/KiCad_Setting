@@ -34,6 +34,9 @@
 * KiKit & KiKit Library (internal) ([Installation Guide](https://yaqwsx.github.io/KiKit/v1.4/installation/intro/)):
     * KiKit: Show/hide references
     * KiKit: Panelize PCB
+* kicad-action-scripts (nternal):
+    * Circular Zone, Keepout Zone Generator
+    * Via Stitching Generator
 
 ### Libraries
 

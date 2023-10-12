@@ -146,4 +146,5 @@
   (lib (name "PCM_Espressif")(type "KiCad")(uri "${KICAD7_3RD_PARTY}/footprints/com_github_espressif_kicad-libraries/Espressif.pretty")(options "")(descr "Added by Plugin and Content Manager"))
   (lib (name "PCM_kikit")(type "KiCad")(uri "${KICAD7_3RD_PARTY}/footprints/com_github_yaqwsx_kikit-library/kikit.pretty")(options "")(descr "Added by Plugin and Content Manager"))
   (lib (name "LED_Custom")(type "KiCad")(uri "${KICAD7_3RD_PARTY}/custom/footprints/LED_Custom.pretty")(options "")(descr ""))
+  (lib (name "Button_Switch_Custom")(type "KiCad")(uri "${KICAD7_3RD_PARTY}/custom/footprints/Button_Switch_Custom.pretty")(options "")(descr ""))
 )

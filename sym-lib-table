@@ -222,4 +222,5 @@
   (lib (name "PCM_Espressif")(type "KiCad")(uri "${KICAD7_3RD_PARTY}/symbols/com_github_espressif_kicad-libraries/Espressif.kicad_sym")(options "")(descr "Added by Plugin and Content Manager"))
   (lib (name "PCM_kikit")(type "KiCad")(uri "${KICAD7_3RD_PARTY}/symbols/com_github_yaqwsx_kikit-library/kikit.kicad_sym")(options "")(descr "Added by Plugin and Content Manager"))
   (lib (name "Power_Management_Custom")(type "KiCad")(uri "${KICAD7_3RD_PARTY}/custom/symbols/Power_Management_Custom.kicad_sym")(options "")(descr ""))
+  (lib (name "Switch_Custom")(type "KiCad")(uri "${KICAD7_3RD_PARTY}/custom/symbols/Switch_Custom.kicad_sym")(options "")(descr ""))
 )

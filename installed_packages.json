@@ -671,6 +671,100 @@
             "repository_name": "KiCad official repository"
         },
         {
+            "current_version": "7.0.4",
+            "install_timestamp": 1697012534,
+            "package": {
+                "author": {
+                    "contact": {
+                        "email": "js.reynaud@gmail.com"
+                    },
+                    "name": "jsreynaud"
+                },
+                "description": "ViaStitching and more tools ",
+                "description_full": "Via stitching action tool and circular zone builder action tool. Use the action menu/toolbar feature.",
+                "identifier": "com.github.jsreynaud.kicad-action-scripts",
+                "license": "GPL-2.0",
+                "name": "kicad-action-scripts",
+                "resources": {
+                    "Github": "https://github.com/jsreynaud/kicad-action-scripts",
+                    "Readme": "https://github.com/jsreynaud/kicad-action-scripts/blob/master/README.md"
+                },
+                "tags": [
+                    "annular",
+                    "pcbnew",
+                    "dxf",
+                    "grid",
+                    "mcad"
+                ],
+                "type": "plugin",
+                "versions": [
+                    {
+                        "download_sha256": "922f5daac3ad5daeb76fb128ff509a108b37ddfcd4d8bf0902a95e1ab7f3c042",
+                        "download_size": 51780,
+                        "download_url": "https://github.com/jsreynaud/kicad-action-scripts/releases/download/v7.0-0.4.0/kicad-action-scripts_v7.0-0.4.0.zip",
+                        "install_size": 288098,
+                        "kicad_version": "7.0",
+                        "kicad_version_max": "7.0",
+                        "platforms": [
+                            "linux",
+                            "macos",
+                            "windows"
+                        ],
+                        "status": "stable",
+                        "version": "7.0.4"
+                    },
+                    {
+                        "download_sha256": "643ea19928db3a8451d044e9cfa42cd3ee452bc8a72bfc6b0d60f68c1748e5cc",
+                        "download_size": 51208,
+                        "download_url": "https://github.com/jsreynaud/kicad-action-scripts/releases/download/v7.0-0.3.0/kicad-action-scripts_v7.0-0.3.0.zip",
+                        "install_size": 276785,
+                        "kicad_version": "7.0",
+                        "kicad_version_max": "7.0",
+                        "platforms": [
+                            "linux",
+                            "macos",
+                            "windows"
+                        ],
+                        "status": "stable",
+                        "version": "7.0.3"
+                    },
+                    {
+                        "download_sha256": "976525775d5a2d74be17bc2f6b23e4a660cd6554686eb8c4990234b052be2ede",
+                        "download_size": 52163,
+                        "download_url": "https://github.com/jsreynaud/kicad-action-scripts/releases/download/v6.0-0.2.0/kicad-action-scripts_v6.0-0.2.0.zip",
+                        "install_size": 276266,
+                        "kicad_version": "6.0",
+                        "kicad_version_max": "6.0",
+                        "platforms": [
+                            "linux",
+                            "macos",
+                            "windows"
+                        ],
+                        "status": "stable",
+                        "version": "6.0.1"
+                    },
+                    {
+                        "download_sha256": "3790d1ca1e4dc9b0d2fa68c61b3afa8453c4bf6a11dc3b46597195b6bf9126c2",
+                        "download_size": 51235,
+                        "download_url": "https://github.com/jsreynaud/kicad-action-scripts/releases/download/v5.1-0.2.0/kicad-action-scripts_v5.1-0.2.0.zip",
+                        "install_size": 297879,
+                        "kicad_version": "5.1",
+                        "kicad_version_max": "5.1",
+                        "platforms": [
+                            "linux",
+                            "macos",
+                            "windows"
+                        ],
+                        "status": "stable",
+                        "version": "5.1.1"
+                    }
+                ]
+            },
+            "pinned": false,
+            "repository_id": "46f88614eade3439",
+            "repository_name": "KiCad official repository"
+        },
+        {
             "current_version": "1.1.0",
             "install_timestamp": 1695137602,
             "package": {
@@ -700,6 +794,15 @@
                 },
                 "type": "plugin",
                 "versions": [
+                    {
+                        "download_sha256": "af7d8142f9820ab2ab8aaf0ff4b1668744a97100908251d372b9ba4813e23550",
+                        "download_size": 9533,
+                        "download_url": "https://github.com/yaqwsx/KiKit/releases/download/v1.4.0/pcm-kikit.zip",
+                        "install_size": 10579,
+                        "kicad_version": "6.0",
+                        "status": "stable",
+                        "version": "1.4.0"
+                    },
                     {
                         "download_sha256": "ed3778fc79a96e33affe0da5bc057163022ed9fc645a3fa01e5156e4a7ac60cd",
                         "download_size": 9544,
@@ -745,6 +848,15 @@
                 },
                 "type": "library",
                 "versions": [
+                    {
+                        "download_sha256": "927c818e9b593830840c46000c32b48051ee3053f37431ef0f7712365c7030e1",
+                        "download_size": 11218,
+                        "download_url": "https://github.com/yaqwsx/KiKit/releases/download/v1.4.0/pcm-kikit-lib.zip",
+                        "install_size": 14935,
+                        "kicad_version": "6.0",
+                        "status": "stable",
+                        "version": "1.4.0"
+                    },
                     {
                         "download_sha256": "241314947e56983287a9fa4a74286c5eae5de6421374b5983127e68f9f144d48",
                         "download_size": 11217,
